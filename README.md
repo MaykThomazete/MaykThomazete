@@ -2,7 +2,8 @@
 <br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaykThomazete&show_icons=true&theme=tokyonight&title_color=4493f8&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykThomazete&layout=compact&theme=tokyonight&title_color=4493f8&text_color=FFFFFF&langs_count=16"/> <br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykThomazete&layout=compact&theme=tokyonight&title_color=4493f8&text_color=FFFFFF&langs_count=16"/> 
+<br>
 </div>
 
 
